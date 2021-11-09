@@ -2,3 +2,5 @@ hello git hello
 kkkkkkk
 
 4587991212688333
+本地仓库克隆下来的repo2中修改hello.txt
+此时远程仓库中的repo2已经修改了，在更新本地仓库repo2时不一致，无法成功提交
