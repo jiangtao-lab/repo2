@@ -2,5 +2,11 @@ hello git hello
 kkkkkkk
 
 4587991212688333
+<<<<<<< HEAD
+本地仓库进行的修改： 手动解决冲突
 本地仓库克隆下来的repo2中修改hello.txt
 此时远程仓库中的repo2已经修改了，在更新本地仓库repo2时不一致，无法成功提交
+=======
+远程仓库进行的修改：手动解决冲突
+update hello.txtupdate hello.txtupdate hello.txtupdate hello.txtupdate hello.txtupdate hello.txtupdate hello.txtupdate hello.txt
+>>>>>>> f099d050dcc16a1e1baada37cf5843a4d47c462f
